@@ -19,11 +19,10 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: center;
-  gap: 50px;
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  grid-row-gap: 50px;
   align-items: center;
   padding-top: 80px;
 }
@@ -34,7 +33,9 @@ header {
 }
 
 .header-btn {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-row-gap: 25px;
 }
 
 .header-btn a {
