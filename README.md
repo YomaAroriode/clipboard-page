@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/used-css-grid-and-flexbox-for-layout-structure-MHcjJ3jh0V)
 - Live Site URL: [Add live site URL here](https://yomaaroriode.github.io/clipboard-page)
 
 
