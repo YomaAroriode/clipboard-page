@@ -35,11 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/used-css-grid-and-flexbox-for-layout-structure-MHcjJ3jh0V)
-- Live Site URL: [Add live site URL here](https://yomaaroriode.github.io/clipboard-page)
-
-
-## My process
+- Solution URL: https://www.frontendmentor.io/solutions/used-css-grid-and-flexbox-for-layout-structure-MHcjJ3jh0V
+- Live Site URL: https://yomaaroriode.github.io/clipboard-page
 
 
 ### Built with
@@ -47,10 +44,3 @@ Users should be able to:
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
-
-
-## Author
-
-- Website - [Add your name here](https://www.yomaaroriode.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/YomaAroriode)
-- Twitter - [@yourusername](https://www.twitter.com/YomaAroriode)
